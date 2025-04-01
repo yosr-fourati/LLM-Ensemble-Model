@@ -27,6 +27,6 @@ This work proposes an ensemble-based selection mechanism that dynamically evalua
     - **Three** for **per-category training** with each model.
   - **Note**: These scripts use **ADA embeddings** from OpenAI. You will need to include your **OpenAI** API key.
 
-### 4. Data Analysis
+### 4. Some Useful Graphs
 - **Notebook**: `data_info.ipynb`
-  - Provides graphical insights and descriptive statistics about the data used in this project.
+  - Provides graphs about the dataset used in this project.
